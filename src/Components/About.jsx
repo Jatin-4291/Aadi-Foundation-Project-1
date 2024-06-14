@@ -24,19 +24,21 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Creative web developer skilled in crafting visually stunning and responsive websites. Proficient in modern web technologies, with a passion for clean code and user-centric design. Dedicated to delivering high-quality digital experiences ";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Next.js",
+  "React.js",
+  "Node.js",
+  "HTML/CSS",
+  "MongoDB",
+  "JavaScript",
+  "Express",
+  "Tailwind",
 ];
 
 /**
@@ -45,7 +47,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about innovative problem-solving to drive creativity. Leveraging my UI/UX expertise, I constantly seek new methods to enhance tech accessibility for all, focusing on web development. My goal is to create intuitive, user-friendly web experiences that cater to diverse user needs and promote inclusive design."
 
 const About = () => {
   return (
